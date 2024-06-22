@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:dhawalenilesh1111@gmail.com">Email Me</a> •
-  <a href="https://www.linkedin.com/in/nilesh-dhawale-1940a7236">LinkedIn</a> •
-  <a href="https://github.com/NileshDhawale01">GitHub</a> •
-  <a href="https://leetcode.com/u/NileshDhawale/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/nilesh-dhawale-1940a7236" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/NileshDhawale01" target="_blank">GitHub</a> •
+  <a href="https://leetcode.com/u/NileshDhawale/" target="_blank">LeetCode</a>
 </p>
 
 ---
