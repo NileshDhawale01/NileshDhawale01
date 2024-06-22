@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Software Engineer from India</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">Email Me</a> •
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
+  <a href="dhawalenilesh1111@gmail.com">Email Me</a> •
+  <a href="https://www.linkedin.com/in/nilesh-dhawale-1940a7236">LinkedIn</a> •
+  <a href="https://github.com/NileshDhawale01">GitHub</a>
 </p>
 
 ---
@@ -41,4 +41,4 @@
 
 ---
 
-⭐️ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin) or check out my [GitHub](https://github.com/yourusername).
+⭐️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nilesh-dhawale-1940a7236) or check out my [GitHub](https://github.com/NileshDhawale01).
