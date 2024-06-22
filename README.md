@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Software Engineer from India</h3>
 
 <p align="center">
-  <a href="dhawalenilesh1111@gmail.com">Email Me</a> •
+  <a href="mailto:dhawalenilesh1111@gmail.com">Email Me</a> •
   <a href="https://www.linkedin.com/in/nilesh-dhawale-1940a7236">LinkedIn</a> •
   <a href="https://github.com/NileshDhawale01">GitHub</a>
 </p>
